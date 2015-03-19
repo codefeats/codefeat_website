@@ -1,6 +1,6 @@
 == README
 
-[Website](codefeat.herokuapp.com)
+[Website](http://codefeat.herokuapp.com)
 
 ```
 2015/3/20
