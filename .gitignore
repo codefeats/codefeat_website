@@ -2,8 +2,11 @@
 capybara-*.html
 .rspec
 /log
+/log/*
+!/log/.keep
 /tmp
 /db/*.sqlite3
+/db/*.sqlite3-journal
 /public/system
 /coverage/
 /spec/tmp
